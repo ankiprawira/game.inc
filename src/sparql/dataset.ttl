@@ -1,0 +1,185 @@
+@prefix id: <https://gameinc.com/> .
+@prefix item: <https://gameinc.com/ns/item#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+#Devices
+
+id:G001
+    item:Title      "Spidran" ;
+    item:Developer  "Gaminc Technology" ;
+    item:Publisher  "Gineks" ;
+    item:Year       "2022" ;
+    item:Genre      "Action" ;
+    item:Platform   "PC" ;
+    item:Harga      "30" .
+
+id:G002
+    item:Title      "Grand Theft Auto V " ;
+    item:Developer  "Rockstar North" ;
+    item:Publisher  "Rockstar Games" ;
+    item:Year       "2013" ;
+    item:Genre      "Action" ;
+    item:Platform   "Console" ;
+    item:Harga      "20" .
+    
+id:G003
+    item:Title      "Red Dead Redemption 2" ;
+    item:Developer  "Rockstar Studios" ;
+    item:Publisher  "Rockstar Games" ;
+    item:Year       "2018" ;
+    item:Genre      "Adventure" ;
+    item:Platform   "Console" ;
+    item:Harga      "60" .
+
+id:G004
+    item:Title      "Fallout 4" ;
+    item:Developer  "Bethesda Game Studios" ;
+    item:Publisher  "Bethesda Softworks" ;
+    item:Year       "2015" ;
+    item:Genre      "RPG" ;
+    item:Platform   "PC" ;
+    item:Harga      "20" .
+
+id:G005
+    item:Title      "Cyberpunk 2077" ;
+    item:Developer  "CD PROJEKT RED" ;
+    item:Publisher  "CD PROJEKT RED" ;
+    item:Year       "2020" ;
+    item:Genre      "RPG" ;
+    item:Platform   "PC" ;
+    item:Harga      "60" .
+    
+id:G006
+    item:Title      "The Elder Scrolls V: Skyrim" ;
+    item:Developer  "Bethesda Game Studios" ;
+    item:Publisher  "Bethesda Softworks" ;
+    item:Year       "2011" ;
+    item:Genre      "RPG" ;
+    item:Platform   "PC" ;
+    item:Harga      "20" .
+
+id:G007
+    item:Title      "Company of Heroes 2" ;
+    item:Developer  "Relic Entertainment" ;
+    item:Publisher  "SEGA" ;
+    item:Year       "2013" ;
+    item:Genre      "Strategy" ;
+    item:Platform   "PC" ;
+    item:Harga      "20" .
+
+id:G008
+    item:Title      "Yakuza 0" ;
+    item:Developer  "SEGA" ;
+    item:Publisher  "SEGA" ;
+    item:Year       "2018" ;
+    item:Genre      "Action" ;
+    item:Platform   "Console" ;
+    item:Harga      "20" .
+    
+id:G009
+    item:Title      "Halo: The Master Chief Collection" ;
+    item:Developer  "343 Industries" ;
+    item:Publisher  "Xbox Game Studios" ;
+    item:Year       "2019" ;
+    item:Genre      "Shooter" ;
+    item:Platform   "Console" ;
+    item:Harga      "40" .
+
+id:G010
+    item:Title      "FIFA 22" ;
+    item:Developer  "EA Canada" ;
+    item:Publisher  "Electronic Arts" ;
+    item:Year       "2021" ;
+    item:Genre      "Sports" ;
+    item:Platform   "Console" ;
+    item:Harga      "60" .
+
+id:G011
+    item:Title      "STAR WARS: Squadrons" ;
+    item:Developer  "MOTIVE" ;
+    item:Publisher  "Electronic Arts" ;
+    item:Year       "2020" ;
+    item:Genre      "Action" ;
+    item:Platform   "Console" ;
+    item:Harga      "40" .
+    
+id:G012
+    item:Title      "Far Cry New Dawn" ;
+    item:Developer  "Ubisoft Montreal" ;
+    item:Publisher  "Ubisoft" ;
+    item:Year       "2019" ;
+    item:Genre      "Action" ;
+    item:Platform   "Console" ;
+    item:Harga      "10" .
+
+id:G013
+    item:Title      "Assassin's Creed Odyssey" ;
+    item:Developer  "Ubisoft Quebec" ;
+    item:Publisher  "Ubisoft" ;
+    item:Year       "2018" ;
+    item:Genre      "Action" ;
+    item:Platform   "PC" ;
+    item:Harga      "60" .
+
+id:G014
+    item:Title      "Counter-Strike: Global Offensive" ;
+    item:Developer  "Valve" ;
+    item:Publisher  "Valve" ;
+    item:Year       "2012" ;
+    item:Genre      "Shooter" ;
+    item:Platform   "PC" ;
+    item:Harga      "15" .
+    
+id:G015
+    item:Title      "Battlefield 4" ;
+    item:Developer  "DICE" ;
+    item:Publisher  "Electronic Arts" ;
+    item:Year       "2020" ;
+    item:Genre      "Shooter" ;
+    item:Platform   "Console" ;
+    item:Harga      "40" .
+
+id:G016
+    item:Title      "NBA 2K22" ;
+    item:Developer  "Visual Concepts" ;
+    item:Publisher  "2K" ;
+    item:Year       "2021" ;
+    item:Genre      "Sports" ;
+    item:Platform   "Console" ;
+    item:Harga      "60" .
+
+id:G017
+    item:Title      "Borderlands 3" ;
+    item:Developer  "Gearbox Software" ;
+    item:Publisher  "2K" ;
+    item:Year       "2020" ;
+    item:Genre      "Shooter" ;
+    item:Platform   "PC" ;
+    item:Harga      "60" .
+    
+id:G018
+    item:Title      "Pokemon Legends: Arceus" ;
+    item:Developer  "Game Freak" ;
+    item:Publisher  "Nintendo" ;
+    item:Year       "2022" ;
+    item:Genre      "RPG" ;
+    item:Platform   "Portable" ;
+    item:Harga      "60" .
+
+id:G019
+    item:Title      "Super Mario Odyssey" ;
+    item:Developer  "Nintendo" ;
+    item:Publisher  "Nintendo" ;
+    item:Year       "2017" ;
+    item:Genre      "Platformer" ;
+    item:Platform   "Portable" ;
+    item:Harga      "60" .
+    
+id:G020
+    item:Title      "Sonic Frontiers" ;
+    item:Developer  "Sonic Team" ;
+    item:Publisher  "SEGA" ;
+    item:Year       "2022" ;
+    item:Genre      "Platformer" ;
+    item:Platform   "Portable" ;
+    item:Harga      "40" .

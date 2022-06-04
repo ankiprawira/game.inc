@@ -1,0 +1,13 @@
+PREFIX id: <https://gameinc.com/>
+PREFIX item: <https://gameinc.com/ns/item#>
+
+SELECT *
+WHERE {
+    ?id     item:Title             ?Title ;
+            item:Developer         ?Developer ;
+            item:Publisher         ?Publisher ;
+            item:Year              ?Year;
+            item:Genre             ?Genre ;
+            item:Platform          ?Platform;
+            item:Harga             ?Harga .  
+}
