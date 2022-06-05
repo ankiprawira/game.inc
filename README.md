@@ -14,7 +14,7 @@ Gameinc is an aplication that contains information from a collection of video ga
 1. Install all dependencies
 2. Clone repo to (/xampp/htdocs)
 ```
-git clone https://github.com/ankiprawira/game.inc
+git clone https://github.com/ankiprawira/gameinc
 ```
 3. Run Apache Jena Fuseki Server
 ```
@@ -34,7 +34,7 @@ http://localhost:3030/
 1. Start XAMPP
 2. Open localhost on local browser
 ```
-http://localhost/gaminc
+http://localhost/gameinc
 ```
 
 ## Authors
