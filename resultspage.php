@@ -30,7 +30,6 @@
     <?php
     require_once("sparqllib.php");
     $searchInput = "";
-    $filter = "";
 
     if (isset($_POST['search'])) {
         $searchInput = $_POST['search'];
